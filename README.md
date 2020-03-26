@@ -1,3 +1,19 @@
+## Mockup WireFrame 
+
+For this mockup I will be focusing on the Channels Section and i want it to look like this :) 
+
+![wireframe](./images/channelSection.jpg)
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
