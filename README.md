@@ -1,6 +1,6 @@
 ## Mockup WireFrame 
 
-For this mockup I will be focusing on the Channels Section and i want it to look like this :) 
+For this mockup I will be focusing on the Channels Section and i want it to look like this :)
 
 ![wireframe](./images/channelSection.jpg)
 
