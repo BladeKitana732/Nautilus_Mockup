@@ -10,6 +10,8 @@ import poetryImg from './images/poetry.jpeg';
 import birthdayCakeImg from './images/aging.png';
 import nightSkyImg from './images/alliance.png';
 import neuroImg from './images/maxplanck.jpeg';
+import Header from './components/Header';
+
 
 export default class App extends Component {
   render() {
@@ -21,11 +23,11 @@ export default class App extends Component {
         <div id='channels-container'>
 
           
-          <h3>Biology And Beyond</h3>
-          <img src= { bioImage } alt='bio_and_beyond' className='channel-img'/>
-
-
-         
+          
+          <img src= { bioImage } alt='bio_and_beyond' className='channel-img'
+          />
+          <Header />
+          
 
           <img src= { femaleFaceImg } alt='artistic_female_face' className='channel-img'/> 
 
