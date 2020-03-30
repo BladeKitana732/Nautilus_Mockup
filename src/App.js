@@ -24,9 +24,8 @@ export default class App extends Component {
 
           
           
-          <img src= { bioImage } alt='bio_and_beyond' className='channel-img'
+          <img text= { Header } src= { bioImage } alt='bio_and_beyond' className='channel-img'
           />
-          <Header />
           
 
           <img src= { femaleFaceImg } alt='artistic_female_face' className='channel-img'/> 
