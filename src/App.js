@@ -15,7 +15,7 @@ export default class App extends Component {
   render() {
     return (
       <div id='App'>
-        <h1>Channels</h1>
+        <h2>Channels</h2>
         <p>TUNE INTO <em>NAUTILUS'</em> DEEP DIVE PORTALS</p>
 
         <div id='channels-container'>
