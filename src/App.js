@@ -15,6 +15,8 @@ export default class App extends Component {
   render() {
     return (
       <div id='App'>
+        <h1>Channels</h1>
+        <p>TUNE INTO <em>NAUTILUS'</em> DEEP DIVE PORTALS</p>
 
         <div id='channels-container'>
           <img src= { bioImage } alt='bio_and_beyond' className='channel-img'/>
