@@ -14,7 +14,9 @@ import neuroImg from './images/maxplanck.jpeg';
 export default class App extends Component {
   render() {
     return (
-      <div>
+      <div id='App'>
+
+        <div id='channels-container'>
           <img src= { bioImage } alt='bio_and_beyond'/>
           <img src= { femaleFaceImg } alt='artistic_female_face' /> 
           <img src= { numberedBoxImg } alt='numbered_slide_puzzle_game'/> 
@@ -25,6 +27,8 @@ export default class App extends Component {
           <img src= { birthdayCakeImg } alt='aging_bdayCake_image'/>
           <img src= { nightSkyImg } alt='clear_nightSkylight_image'/>
           <img src= { neuroImg } alt='abstract_neuro_img'/>
+        </div>  
+        
       </div>
     )
   }
