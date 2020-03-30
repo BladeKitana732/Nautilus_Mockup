@@ -17,18 +17,18 @@ export default class App extends Component {
       <div id='App'>
 
         <div id='channels-container'>
-          <img src= { bioImage } alt='bio_and_beyond'/>
-          <img src= { femaleFaceImg } alt='artistic_female_face' /> 
-          <img src= { numberedBoxImg } alt='numbered_slide_puzzle_game'/> 
-          <img src= { natureImg } alt='watercolor_nature_painting'/>
-          <img src= { grillingHotDogImg } alt='grilling_Hotdog_image'/>
-          <img src= { cosmosImg } alt='cosmos_in_blackAndGold_image'/>
-          <img src= { poetryImg } alt='pond_grainfields_image'/>
-          <img src= { birthdayCakeImg } alt='aging_bdayCake_image'/>
-          <img src= { nightSkyImg } alt='clear_nightSkylight_image'/>
-          <img src= { neuroImg } alt='abstract_neuro_img'/>
+          <img src= { bioImage } alt='bio_and_beyond' className='channel-img'/>
+          <img src= { femaleFaceImg } alt='artistic_female_face' className='channel-img'/> 
+          <img src= { numberedBoxImg } alt='numbered_slide_puzzle_game' className='channel-img'/> 
+          <img src= { natureImg } alt='watercolor_nature_painting' className='channel-img'/>
+          <img src= { grillingHotDogImg } alt='grilling_Hotdog_image' className='channel-img'/>
+          <img src= { cosmosImg } alt='cosmos_in_blackAndGold_image' className='channel-img'/>
+          <img src= { poetryImg } alt='pond_grainfields_image' className='channel-img'/>
+          <img src= { birthdayCakeImg } alt='aging_bdayCake_image' className='channel-img'/>
+          <img src= { nightSkyImg } alt='clear_nightSkylight_image' className='channel-img'/>
+          <img src= { neuroImg } alt='abstract_neuro_img' className='channel-img'/>
         </div>  
-        
+
       </div>
     )
   }
