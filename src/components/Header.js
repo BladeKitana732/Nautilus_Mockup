@@ -15,75 +15,76 @@ export default class Header extends Component {
         return (
             <div id='channels-container'>
 
-               <div> 
+               <article> 
                 <h2>Biology+Beyond</h2>
                 <img src= { bioImage } alt='bio_and_beyond' className='channel-img'
-                /><h4>sdajks</h4><p>ands</p>
-               </div>
+                /><h4>sdajks</h4>
+                <p>ands</p>
+               </article>
 
-               <div>
+               <article>
                 <h2>Biology+Beyond</h2>
                 <img src= { femaleFaceImg } alt='artistic_female_face' className='channel-img'/> 
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
-               </div>
+               </article>
 
 
-               <div> 
+               <article> 
                 <h2>Biology+Beyond</h2>
                 <img src= { numberedBoxImg } alt='numbered_slide_puzzle_game' className='channel-img'/> 
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
-                </div>
+                </article>
 
-               <div>
+               <article>
                 <h2>Biology+Beyond</h2>
                 <img src= { natureImg } alt='watercolor_nature_painting' className='channel-img'/>
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
-                </div> 
+                </article> 
 
-               <div> 
+               <article> 
                 <h2>Biology+Beyond</h2>
                 <img src= { grillingHotDogImg } alt='grilling_Hotdog_image' className='channel-img'/>
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
-               </div>
+               </article>
 
-               <div>
+               <article>
                 <h2>Biology+Beyond</h2>
                 <img src= { cosmosImg } alt='cosmos_in_blackAndGold_image' className='channel-img'/>
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
-               </div>
+               </article>
 
-               <div>
+               <article>
                 <h2>Biology+Beyond</h2>
                 <img src= { poetryImg } alt='pond_grainfields_image' className='channel-img'/>
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
-               </div>
+               </article>
 
-               <div> 
+               <article> 
                 <h2>Biology+Beyond</h2>
                 <img src= { birthdayCakeImg } alt='aging_bdayCake_image' className='channel-img'/>
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
-               </div>
+               </article>
 
-               <div> 
+               <article> 
                 <h2>Biology+Beyond</h2>
                 <img src= { nightSkyImg } alt='clear_nightSkylight_image' className='channel-img'/>
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
-               </div>
+               </article>
 
-               <div> 
+               <article> 
                 <h2>Biology+Beyond</h2>
                 <img src= { neuroImg } alt='abstract_neuro_img' className='channel-img'/>
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
-               </div>
+               </article>
         
               </div>
                 

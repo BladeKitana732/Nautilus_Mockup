@@ -13,10 +13,11 @@ h1 {
 #tune-in {
     text-align: center;
 }
-/* 
-#channels-container {
+
+/* #channels-container {
+    border: solid 4px black;
     display: flex;
-    flex-direction: row;
+    
 
 } */
 
