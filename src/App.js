@@ -18,9 +18,9 @@ export default class App extends Component {
     return (
       <div id='App'>
         <h1>Channels</h1>
-        <p>TUNE INTO <em>NAUTILUS'</em> DEEP DIVE PORTALS</p>
+        <p id='tune-in'>TUNE INTO <em>NAUTILUS'</em> DEEP DIVE PORTALS</p>
 
-        <div id='channels-container'>
+        <div>
 
           <Header />
 

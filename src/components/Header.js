@@ -13,39 +13,42 @@ import neuroImg from './images/maxplanck.jpeg';
 export default class Header extends Component {
     render() {
         return (
-            <div>
+            <div id='channels-container'>
 
+               <div> 
                 <h2>Biology+Beyond</h2>
                 <img src= { bioImage } alt='bio_and_beyond' className='channel-img'
-                />
-                <h4>jfsk</h4>
-                <p>jasjdasd</p>
-                
+                /><h4>sdajks</h4><p>ands</p>
+               </div>
 
-                
+               <div>
                 <h2>Biology+Beyond</h2>
                 <img src= { femaleFaceImg } alt='artistic_female_face' className='channel-img'/> 
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
+               </div>
 
-                
+
+               <div> 
                 <h2>Biology+Beyond</h2>
                 <img src= { numberedBoxImg } alt='numbered_slide_puzzle_game' className='channel-img'/> 
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
+                </div>
 
-                
+               <div>
                 <h2>Biology+Beyond</h2>
                 <img src= { natureImg } alt='watercolor_nature_painting' className='channel-img'/>
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
+                </div> 
 
-                
+               <div> 
                 <h2>Biology+Beyond</h2>
                 <img src= { grillingHotDogImg } alt='grilling_Hotdog_image' className='channel-img'/>
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
-
+               </div>
                 
                 <h2>Biology+Beyond</h2>
                 <img src= { cosmosImg } alt='cosmos_in_blackAndGold_image' className='channel-img'/>
@@ -75,8 +78,10 @@ export default class Header extends Component {
                 <img src= { neuroImg } alt='abstract_neuro_img' className='channel-img'/>
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
+
+        
+              </div>
                 
-            </div>
         )
     }
 }
