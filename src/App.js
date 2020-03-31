@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
 import './App.css';
-import bioImage from './images/bio_and_beyond.jpeg';
-import femaleFaceImg from './images/wise_sci_and_engineering.png';
-import numberedBoxImg from './images/abstractions.jpeg';
-import natureImg from './images/earth.jpeg';
-import grillingHotDogImg from './images/tlas.jpeg';
-import cosmosImg from './images/cosmos.jpeg';
-import poetryImg from './images/poetry.jpeg';
-import birthdayCakeImg from './images/aging.png';
-import nightSkyImg from './images/alliance.png';
-import neuroImg from './images/maxplanck.jpeg';
+// import bioImage from './images/bio_and_beyond.jpeg';
+// import femaleFaceImg from './images/wise_sci_and_engineering.png';
+// import numberedBoxImg from './images/abstractions.jpeg';
+// import natureImg from './images/earth.jpeg';
+// import grillingHotDogImg from './images/tlas.jpeg';
+// import cosmosImg from './images/cosmos.jpeg';
+// import poetryImg from './images/poetry.jpeg';
+// import birthdayCakeImg from './images/aging.png';
+// import nightSkyImg from './images/alliance.png';
+// import neuroImg from './images/maxplanck.jpeg';
 import Header from './components/Header';
 
 
@@ -22,8 +22,10 @@ export default class App extends Component {
 
         <div id='channels-container'>
 
+          <Header />
+
           
-          
+          {/* <h4>Biology+Beyond</h4>
           <img text= { Header } src= { bioImage } alt='bio_and_beyond' className='channel-img'
           />
           
@@ -59,7 +61,7 @@ export default class App extends Component {
 
           
 
-          <img src= { neuroImg } alt='abstract_neuro_img' className='channel-img'/>
+          <img src= { neuroImg } alt='abstract_neuro_img' className='channel-img'/> */}
         </div>  
 
       </div>

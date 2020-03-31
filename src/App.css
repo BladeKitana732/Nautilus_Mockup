@@ -1,10 +1,10 @@
-#channels-container {
+/* #channels-container {
     display: grid;
     grid-template-columns: repeat(3, auto);
     grid-row-gap: 6em;
     grid-column-gap: 2em;
     margin: 50px 150px 0 50px;
-}
+} */
 
 h1 , p {
     text-align: center;
