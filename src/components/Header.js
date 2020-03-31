@@ -53,38 +53,38 @@ export default class Header extends Component {
                </article>
 
                <article>
-                <h2>Biology+Beyond</h2>
+                <h2>Cosmos</h2>
                 <img src= { cosmosImg } alt='cosmos_in_blackAndGold_image' className='channel-img'/>
-                <h4>jfsk</h4>
-                <p>jasjdasd</p>
+                <h4>How Much Should Expectation Drive Science?</h4>
+                <p>by Claudia Geib</p>
                </article>
 
                <article>
-                <h2>Biology+Beyond</h2>
+                <h2>POETRY IN SCIENCE</h2>
                 <img src= { poetryImg } alt='pond_grainfields_image' className='channel-img'/>
-                <h4>jfsk</h4>
-                <p>jasjdasd</p>
+                <h4>On Observation and Imagination</h4>
+                <p>by Gillian Osborne</p>
                </article>
 
                <article> 
-                <h2>Biology+Beyond</h2>
+                <h2>Aging</h2>
                 <img src= { birthdayCakeImg } alt='aging_bdayCake_image' className='channel-img'/>
-                <h4>jfsk</h4>
-                <p>jasjdasd</p>
+                <h4>Yes, Life in the Fast Lane Kills You</h4>
+                <p>by Philip Ball</p>
                </article>
 
                <article> 
-                <h2>Biology+Beyond</h2>
+                <h2>SCIENCE PHILANTHROPY ALLIANCE</h2>
                 <img src= { nightSkyImg } alt='clear_nightSkylight_image' className='channel-img'/>
-                <h4>jfsk</h4>
-                <p>jasjdasd</p>
+                <h4>Talking to the Stars</h4>
+                <p>by Science Philanthropy Alliance</p>
                </article>
 
                <article> 
-                <h2>Biology+Beyond</h2>
+                <h2>MPNeuro</h2>
                 <img src= { neuroImg } alt='abstract_neuro_img' className='channel-img'/>
-                <h4>jfsk</h4>
-                <p>jasjdasd</p>
+                <h4>Understanding the Brain with the Help of Artificial Intelligence</h4>
+                <p>by Max Planck Institute of Neurobiology</p>
                </article>
         
               </div>
