@@ -1,9 +1,10 @@
 #channels-container {
-    border: solid 4px black;
+    /* border: solid 4px black; */
     display: grid;
     grid-template-columns: repeat(3, auto);
-    grid-row-gap: 2em;
+    grid-row-gap: 3em;
     grid-column-gap: 2em;
+    margin: 0 0 0 20px;
 }
 
 h1 {
@@ -21,4 +22,20 @@ h1 {
 
 } */
 
+h4 {
+    margin: 0 0 0 0;
+}
 
+p {
+    margin: 5px 0 0 0;
+}
+
+h2 {
+    margin: 0 0 10px 0;
+}
+
+#play-button{
+    width: 20px;
+    margin: 2px 5px 0 0;
+    height: 20px;
+}
