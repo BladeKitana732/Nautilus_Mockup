@@ -49,36 +49,41 @@ export default class Header extends Component {
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
                </div>
-                
+
+               <div>
                 <h2>Biology+Beyond</h2>
                 <img src= { cosmosImg } alt='cosmos_in_blackAndGold_image' className='channel-img'/>
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
+               </div>
 
-                
+               <div>
                 <h2>Biology+Beyond</h2>
                 <img src= { poetryImg } alt='pond_grainfields_image' className='channel-img'/>
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
+               </div>
 
-                
+               <div> 
                 <h2>Biology+Beyond</h2>
                 <img src= { birthdayCakeImg } alt='aging_bdayCake_image' className='channel-img'/>
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
+               </div>
 
-
+               <div> 
                 <h2>Biology+Beyond</h2>
                 <img src= { nightSkyImg } alt='clear_nightSkylight_image' className='channel-img'/>
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
+               </div>
 
-                
+               <div> 
                 <h2>Biology+Beyond</h2>
                 <img src= { neuroImg } alt='abstract_neuro_img' className='channel-img'/>
                 <h4>jfsk</h4>
                 <p>jasjdasd</p>
-
+               </div>
         
               </div>
                 
